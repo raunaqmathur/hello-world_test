@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.scala-ide.sdt.launching.SCALA_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="D:/Lecture Slides/273/SpringSuitePrj/spring-beans-3.2.11.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Lecture Slides/273/SpringSuitePrj/spring-boot-1.1.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Lecture Slides/273/SpringSuitePrj/spring-boot-autoconfigure-1.1.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Lecture Slides/273/SpringSuitePrj/spring-context-3.2.11.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Lecture Slides/273/SpringSuitePrj/spring-web-4.0.7.RELEASE.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
